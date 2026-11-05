@@ -1,0 +1,1 @@
+# indicador-ruido-esp32
